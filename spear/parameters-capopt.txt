@@ -1,0 +1,8 @@
+executable: ./Spear-32_1.2.1
+fixed-params: --time
+instance-command: --dimacs
+#seed-command:
+effort-limit-command: --tmout
+effort-limit: 10
+effort-type: other
+capping: False

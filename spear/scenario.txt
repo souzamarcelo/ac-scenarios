@@ -1,0 +1,10 @@
+parameterFile = "./parameters-spear.txt"
+execDir = "."
+trainInstancesDir = "./instances"
+trainInstancesFile = "./instances.txt"
+maxExperiments = 100000
+digits = 2
+targetRunner = "./capopt/capopt.py"
+seed = 1415277863
+deterministic = TRUE
+sampleInstances = FALSE
